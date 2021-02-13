@@ -1,6 +1,2 @@
-hhjfjgkfjkjggkjgfjg
-gkjkfghjlgh
-jgkgkgjkjfgj
-fjkjhkfhkfhkfh
-fkjkjfkhjhkjhkfkfhjhf
-
+2nd code for client
+>>>>>>> Stashed changes
